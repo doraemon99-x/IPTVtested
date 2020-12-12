@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTVLCOPT:network-caching=1000
-https://youtu.be/ggXwSw-DR2s
+#EXTINF:-1,group-title="LOKAL"I News
+https://www.youtube.com/watch?v=ggXwSw-DR2s&feature=youtu.be
